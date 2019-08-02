@@ -5,7 +5,7 @@
 
 # INSTALLATION
 
-+ git clone https://github.com/beneameenth/AccessToken-FB
++ git clone https://github.com/masbokir/AccessToken-FB
 
 
 + cd AccessToken-FB
@@ -30,9 +30,5 @@ IN WIN OR TERMUX :
 IN WIN OR TERMUX:
 + python AccessToken-FB.py
 
-![alt text](https://i.imgur.com/yTQRTU5.png)
-
-# CONTACT ME :
-+           CODER : BEN_TH                         
-+           FB : www.facebook.com/bassem.beso.18659         
+![alt text](https://i.imgur.com/yTQRTU5.png)     
       
